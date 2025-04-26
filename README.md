@@ -15,5 +15,5 @@ A simple command-line coffee machine simulation that lets users select different
 - Interactive command-line interface.
 
 
-# 🚀 Clone the repository
+## 🚀 Clone the repository
 git clone https://github.com/Arul1006/CoffeeMachine.git
